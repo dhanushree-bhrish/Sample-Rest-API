@@ -51,4 +51,4 @@ curl http://localhost:4000/
 ## Dependencies:
 
 - Express - Fast, unopinionated, minimalist web framework for Node.js
-= Body-parser - Node.js body parsing middleware
+- Body-parser - Node.js body parsing middleware
